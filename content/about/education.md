@@ -27,8 +27,8 @@ experience:
     company_url: ''
     # company_logo: org-x
     location: 전주
-    date_start: '2020-03'
-    date_end: '2026-02'
+    date_start: '2020-03-01'
+    date_end: '2026-02-01'
     # description: |2-
     #     * Dissertation on Y
     #     * Basketball team
