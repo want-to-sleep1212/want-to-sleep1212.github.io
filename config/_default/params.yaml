@@ -94,7 +94,7 @@ features:
     provider: wowchemy
     wowchemy:
       min_length: 1
-      threshold: 0.3
+      threshold: 0.7
   map:
     provider: ''
     api_key: ''
