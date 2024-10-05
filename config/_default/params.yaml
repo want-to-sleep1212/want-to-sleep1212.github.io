@@ -36,6 +36,8 @@ header:
     enable: true
     align: r
     show_logo: true
+    logo:
+      filename: "Header_image"
     show_language: true
     show_translations: true
     hide_language_name: false
