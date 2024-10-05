@@ -37,7 +37,6 @@ header:
     enable: true
     align: r
     logo:
-      text: ""
       filename: "Header_image.png"
     show_logo: true
     show_language: true
