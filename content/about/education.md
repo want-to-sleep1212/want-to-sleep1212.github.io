@@ -25,7 +25,7 @@ experience:
   - title: 컴퓨터공학부
     company: 전북대학교
     company_url: ''
-    company_logo: org-x
+    # company_logo: org-x
     location: California
     date_start: '2021-01-01'
     date_end: '2022-01-01'
