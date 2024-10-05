@@ -74,4 +74,6 @@ social:
 저는 현재 전북대 컴퓨터공학부에서 재학 중입니다. 저의 관심 분야는 게임 개발이며, 진로 희망 분야는 서버 프로그래밍입니다.
 게이머들에게 안정적이고 믿을 수 있는 서버를 제공할 수 있도록 노력하겠습니다.
 
+연락처 : wnsfud0906@naver.com
+
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/객체지향프로그래밍_1분반_기말대체과제_13조_코드_설명.pdf" "newtab" >}}Download{{< /staticref >}} 제 프로젝트 코드에 대한 설명 파일입니다.
