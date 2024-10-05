@@ -38,7 +38,7 @@ header:
     show_logo: true
     logo:
       text: ""
-      filename: "Header_image"
+      filename: "Header_image.png"
     show_language: true
     show_translations: true
     hide_language_name: false
