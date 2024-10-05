@@ -49,7 +49,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/wnsfud0906@naver.com' # For a direct email link, use "mailto:test@example.org".
+    link: "wnsfud0906@naver.com" # For a direct email link, use "mailto:test@example.org".
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/wowchemy
