@@ -13,7 +13,7 @@ title:
 subtitle:
 
 content:
-  coordinate:
+  coordinates:
     latitude: '35.846019'
     longitude: '127.134442'
   # Automatically link email and phone or display as text?
