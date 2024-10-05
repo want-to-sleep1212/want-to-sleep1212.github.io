@@ -1,8 +1,7 @@
 ---
-title: Recommendation Systems
-summary: Write about your project here...
+title: 좀비 디펜스 게임 만들기
+summary: 좀비 디펜스 게임 만들기
 tags:
-  - ML
-date: 2022-01-01
-external_link: http://github.com
+  - client
+date: 2023-08
 ---
