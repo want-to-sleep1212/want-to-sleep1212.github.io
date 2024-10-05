@@ -26,7 +26,7 @@ experience:
     company: 전북대학교
     company_url: ''
     # company_logo: org-x
-    location: California
+    location: 전주
     date_start: '2020-03'
     date_end: '2026-02'
     description: |2-
