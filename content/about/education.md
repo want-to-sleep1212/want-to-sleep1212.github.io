@@ -29,10 +29,10 @@ experience:
     location: 전주
     date_start: '2020-03'
     date_end: '2026-02'
-    description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+    # description: |2-
+    #     * Dissertation on Y
+    #     * Basketball team
+    #     * DJ club
 
   - title: BEng Electronic Engineering
     company: University X
