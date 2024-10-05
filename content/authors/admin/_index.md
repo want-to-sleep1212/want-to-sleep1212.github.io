@@ -2,6 +2,9 @@
 # Display name
 title: 이준령
 
+first_name : 이
+last_name : 준령
+
 # Is this the primary user of the site?
 superuser: true
 
