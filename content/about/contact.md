@@ -13,6 +13,9 @@ title: Get in touch
 subtitle:
 
 content:
+  coordinate:
+    latitude: '35.846019'
+    longitude: '127.134442'
   # Automatically link email and phone or display as text?
   autolink: true
 
