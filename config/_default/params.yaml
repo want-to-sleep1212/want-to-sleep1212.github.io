@@ -96,7 +96,7 @@ features:
       min_length: 1
       threshold: 0.3
   map:
-    provider: 'google'
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
 
